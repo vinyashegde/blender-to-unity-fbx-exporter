@@ -68,10 +68,4 @@ Requires Blender to be installed in the system, so:
 - Disabled collections (monitor icon in the outliner).
 - Excluded collections (unchecked in the outliner). Won't be exported.
 - Nested collections.
-- Objects with their parent in a disabled/excluded collection.
-
-## About the author
-
-Angel "Edy" Garcia<br>
-[@VehiclePhysics](https://twitter.com/VehiclePhysics)<br>
-https://vehiclephysics.com
+- Objects with their parent in a disabled/excluded collection
